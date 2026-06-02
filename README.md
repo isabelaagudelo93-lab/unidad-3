@@ -1,6 +1,6 @@
-# Diseño Técnico de Aplicación Móvil Multiplataforma
+# Diseño técnico de una aplicación móvil multiplataforma para un contexto real
 
-**Asignatura:** Lenguaje de Computación para Móviles  
+**Asignatura:** Lenguaje de computación para móviles  
 **Unidad:** Unidad 3 — Desarrollo web multiplataforma orientado a dispositivos móviles  
 **Fecha:** 2026-05-25
 
@@ -45,7 +45,7 @@ Una institución educativa necesita centralizar la comunicación académica con 
 | **Facilidad de mantenimiento** | Alta | Alta | Media | Alta |
 | **Publicación e instalación** | No requiere tienda | Requiere Play Store | Requiere Play Store | Requiere Play Store |
 | **Limitaciones principales** | No instalable fácilmente en Android; acceso nativo limitado | Depende de plugins de terceros | Costo alto; dos equipos si se quiere iOS | Curva de aprendizaje en Dart |
-| **Decisión final** | ✗ | ✗ | ✗ | ✅ Seleccionado |
+| **Decisión final** | ✗ | ✗ | ✗ | Seleccionado |
 
 ---
 
