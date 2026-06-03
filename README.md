@@ -80,7 +80,7 @@ Una institución educativa necesita centralizar la comunicación académica con 
 ## 5. Arquitectura mínima viable
 
 La arquitectura se organiza en cuatro capas bien definidas:
-![Arquitectura](imagenes/Arquitectura.jpeg)
+![Arquitectura](imagenes/Arquitectura.png)
 
 ```
 ┌─────────────────────────────────────────────────────────┐
