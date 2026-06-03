@@ -124,3 +124,13 @@ La arquitectura se organiza en cuatro capas bien definidas:
 
 > 🎥 [Enlace al video de sustentación](#) *(reemplazar con el enlace de YouTube o Vimeo)*
 
+## Referencias
+
+- Flutter Team. (2024). *Flutter documentation*. https://flutter.dev/docs
+- Dart Team. (2024). *Dart language*. https://dart.dev
+- pub.dev. (2024). *sqflite*. https://pub.dev/packages/sqflite
+- pub.dev. (2024). *image_picker*. https://pub.dev/packages/image_picker
+- pub.dev. (2024). *geolocator*. https://pub.dev/packages/geolocator
+- Google Developers. (2024). *Progressive Web Apps*. https://web.dev/progressive-web-apps
+- Ionic Team. (2024). *Capacitor docs*. https://capacitorjs.com/docs
+
