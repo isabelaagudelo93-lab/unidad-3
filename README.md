@@ -82,30 +82,6 @@ Una institución educativa necesita centralizar la comunicación académica con 
 La arquitectura se organiza en cuatro capas bien definidas:
 ![Arquitectura](imagenes/Arquitectura.png)
 
-```
-┌─────────────────────────────────────────────────────────┐
-│              CAPA DE INTERFAZ DE USUARIO (UI)           │
-│   Actividades │ Evidencias │ Notificaciones │ Ubicación  │
-└─────────────────────────┬───────────────────────────────┘
-                          │
-┌─────────────────────────▼───────────────────────────────┐
-│           CAPA DE LÓGICA Y ESTADO (Provider)            │
-│     Gestión de estado — Reglas de negocio               │
-│     Sincronización online/offline                       │
-└─────────────────────────┬───────────────────────────────┘
-                          │
-┌─────────────────────────▼───────────────────────────────┐
-│           CAPA DE SERVICIOS Y MÓDULOS NATIVOS           │
-│  API REST │ Almacenamiento │ Cámara │ GPS                │
-│  (dio)    │ (sqflite)      │ (image_picker) │ (geolocator)│
-└──────┬────────────┬────────────────────────────────────-┘
-       │            │
-┌──────▼───┐  ┌─────▼──────────────────────────────────┐
-│ Backend  │  │        Almacenamiento local             │
-│ API REST │  │        SQLite — modo offline            │
-└──────────┘  └─────────────────────────────────────────┘
-```
-
 ### Componentes y pantallas principales
 
 - **Pantalla de actividades:** lista de actividades académicas consumidas desde la API y almacenadas localmente.
