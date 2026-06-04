@@ -122,7 +122,7 @@ La arquitectura se organiza en cuatro capas bien definidas:
 
 ## 8. Video de sustentación
 
-> 🎥 [(https://youtu.be/ADhSCgJlUW4)](#)
+> [(https://youtu.be/ADhSCgJlUW4)](#)
 
 ## Referencias
 
